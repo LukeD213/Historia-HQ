@@ -1,0 +1,109 @@
+.head{
+	background-color: #186A20;
+	height: 100px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-direction: row;
+}
+#menu{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+a{
+	color: white;
+}
+#pai{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-evenly;
+	height: 800px;
+	width: 100%;
+	background-color: white;
+}
+.coluna{
+	height: 477px;
+	width: 251px;
+	background-color: red;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+}
+.h1{
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 10px 0px 20px 20px;
+}
+#estranho{
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 20px 0px 0px 0px;
+}
+.pcolunas{
+	color: white;
+	font-family: sans-serif;
+	font-size: 17px;
+}
+.pcoluna3{
+	color: white;
+	font-family: sans-serif;
+	font-size: 16px;
+	margin: -2px 0px -2px 0px;
+}
+#video{
+	margin:50px 0px 0px 0px;
+}
+footer {
+	background-color: #186A20;
+	height: 60px;
+	font-size: 25px;
+	font-family: sans-serif;
+	border-style: solid;
+	border-color: #186A20;
+	color: white;
+}
+
+#foot1{
+	margin: 0px 0px 0px 500px;
+}
+#foot2{
+	margin: 0px 0px 0px 300px;
+}
+
+/*HQ--------------------------*/
+
+#tutorial{
+	border-style: solid;
+	border-width: 1px;
+	margin: 20px 40px 0px 40px;
+	height: 200px;
+}
+#tutoria{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 20px 0px 0px 20px;
+}
+#tuto{
+	margin: 20px 0px 0px 20px;
+}
+#HQt{
+	margin: 70px 0px 0px 0px;
+}
+#HQ1{
+	margin: 0px 0px 0px 0px;
+	display: flex;
+	flex-direction: row;
+}
+#HQ2{
+	margin: 0px 0px 50px 0px;
+	display: flex;
+	flex-direction: row;
+}
